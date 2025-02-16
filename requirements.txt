@@ -1,0 +1,6 @@
+# requirements.txt
+Django==5.0.2
+celery==5.3.6
+redis==5.0.1
+python-dotenv==1.0.1
+django-celery-results==2.5.1
