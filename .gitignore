@@ -1,5 +1,5 @@
 # .gitignore
-
+.env
 # Python
 *.py[cod]
 __pycache__/
